@@ -1,3 +1,3 @@
 # AG-Canonico
-#INTEGRANTES
+# INTEGRANTES
 203414 -Diego Chacón Pimentel
